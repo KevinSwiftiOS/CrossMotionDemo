@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  CrossMotionDemo
 //
-//  Created by hznucai on 2016/9/5.
-//  Copyright © 2016年 hznucai. All rights reserved.
+//  Created by Kevin on 16/9/4.
+//  Copyright © 2016年 Kevin. All rights reserved.
 //
 
 #import "AppDelegate.h"

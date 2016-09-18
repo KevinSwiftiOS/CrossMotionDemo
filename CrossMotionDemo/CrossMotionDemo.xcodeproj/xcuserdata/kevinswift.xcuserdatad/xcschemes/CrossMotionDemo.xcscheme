@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "38C455881D7D51F7002413F4"
+               BlueprintIdentifier = "8C61A14F1D7C48910059735D"
                BuildableName = "CrossMotionDemo.app"
                BlueprintName = "CrossMotionDemo"
                ReferencedContainer = "container:CrossMotionDemo.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "38C455881D7D51F7002413F4"
+            BlueprintIdentifier = "8C61A14F1D7C48910059735D"
             BuildableName = "CrossMotionDemo.app"
             BlueprintName = "CrossMotionDemo"
             ReferencedContainer = "container:CrossMotionDemo.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "38C455881D7D51F7002413F4"
+            BlueprintIdentifier = "8C61A14F1D7C48910059735D"
             BuildableName = "CrossMotionDemo.app"
             BlueprintName = "CrossMotionDemo"
             ReferencedContainer = "container:CrossMotionDemo.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "38C455881D7D51F7002413F4"
+            BlueprintIdentifier = "8C61A14F1D7C48910059735D"
             BuildableName = "CrossMotionDemo.app"
             BlueprintName = "CrossMotionDemo"
             ReferencedContainer = "container:CrossMotionDemo.xcodeproj">
